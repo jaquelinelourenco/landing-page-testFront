@@ -1,0 +1,138 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Dosis', sans-serif;
+    color: black;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+ul li a {
+    color: black;
+
+}
+
+#container {
+    height: 100vh;
+    display: grid;
+}
+
+/* Header */
+#header-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding-left: 70px;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.logo a h1 {
+    text-decoration: none;
+}
+
+/* nav */
+
+#nav-container {
+    font-weight: bold;
+    /*background-color: #005271;*/
+}
+
+#nav-container ul {
+    display: flex;
+    padding-right: 70px;
+
+}
+
+#nav-container li {
+    margin: 15px;
+}
+
+#nav-container a {
+    transition: 0.5s;
+}
+
+#nav-container a:hover {
+    color: rgb(25, 94, 223);
+    border-bottom: 1px solid rgb(25, 94, 223);
+    font-size: 1.125em;
+}
+
+.fix a {
+    color: rgb(25, 94, 223);
+    border-bottom: 1px solid rgb(25, 94, 223);
+}
+
+#nav-container input[type='text'] {
+    background-image: url(./assets/icons8-search.svg);
+    background-position: 120px 0px;
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-color: #005271;
+}
+
+/* main */
+
+.banner img {
+    left: 0px;
+    width: 100vh;
+    height: 100vh; 
+}
+
+.img {
+    width: 250vh;
+    height: 50vh;
+    background: url(./assets/bg\ time.png);
+    background-repeat: no-repeat;
+}
+
+.texto h2 p {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: blue;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+}
+
+.cards ul {
+    display: flex;
+}
+.cards ul img {
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+
+}
+
