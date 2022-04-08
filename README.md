@@ -17,9 +17,9 @@ Um entusiasta do DESENVOLVIMENTO
 - Atualmente estou explorando JAVA, Python,  com grande interesse em desenvolvimento e Estruturas de Dados no código.
 
 Meu projeto foi sobre as Ferramentas:
-            - HTML;
-            - CSS;
-            - Javascript;
+- HTML;
+- CSS;
+- Javascript;
          
 Com designer 🛠: 
   [ Link ](https://xd.adobe.com/view/f9b036e6-b5a6-4819-a6c5-4df3b33b8098-ace3/screen/1fe10806-65b7-4e4d-a506-d688741e9d1f/)
